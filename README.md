@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Hòa 👋
 
 <!--
 **TrungHoa-D/TrungHoa-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 💫About Me :
 - 🔭 I’m currently joining HaUI Olympic team and HIT club
 - 🌱 I’m currently learning Java Web and Flutter
-- 📫 You can contact me at: 0364902816 ||trunghoa2k4@gmail.com
+- 📫 You can contact me at: 0364902816 || trunghoa2k4@gmail.com
 
 
 
